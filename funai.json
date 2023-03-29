@@ -1,0 +1,7 @@
+{
+    "method": "GET",
+    "url": "https://api.nexmo.com/v2/reports/records?product=SMS&direction=outbound&account_id=92c01ce7",
+    "headers": {
+        "Authorization": "Basic OTJjMDFjZTc6UDlPeVEyM2RQVDFYZ0k3Vw=="
+    }
+}
